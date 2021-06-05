@@ -1,0 +1,4 @@
+baseURL = "elastic-code.github.io"
+languageCode = "en-us"
+title = "Elastic code"
+theme = "hermit"
